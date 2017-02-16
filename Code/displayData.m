@@ -1,5 +1,5 @@
 function displayData(data)
-    
+#for display data, do nothing for now    
     % for col=2:numFields
     %     figure;
     %     histogram(data(:,col),20);
